@@ -4,7 +4,7 @@ I am a junior developer, who specializes in front-end development. I have strong
 
 I have also worked with Figma, since I can focus on the design only and then put that into code instead of doing two things at once.
 
-Although I specialize in front-end development, this doesn't mean that I don't know anything about back-end or game development. I've always been the person who wants to see the bigger picture and so I am open to try new things!
+Although I specialize in front-end development, this doesn't mean that I don't know anything about the other world of development. I've always been the person who wants to understand the bigger picture so I am open to try new things!
 
 
 <!--
