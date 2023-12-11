@@ -1,10 +1,8 @@
 ### Welcome to my portfolio! 👋
 
-I am a junior developer, who specializes in front-end development. I have strong fundamentals in HTML, CSS, JavaScript and I have worked with JavaScript frameworks React and Vue. 
+I am a junior developer, who specializes in front-end development. I have strong fundamentals in HTML, CSS, JavaScript and I have worked with JavaScript frameworks React and Vue. Addition to that I have used Figma to focus on design and HTML & CSS separately.
 
-I have also worked with Figma, since I can focus on the design only and then put that into code instead of doing two things at once.
-
-Although I specialize in front-end development, this doesn't mean that I don't know anything about the back-end side of development. For example in my Forum project I built back-end by myself and in Social-Network I was working closely with the back-end team.
+I may know front-end technologies the best but this doesn't mean I don't know anything about the back-end side. I created the back-end by myself in the Forum project and Social-Network required working closely with the back-end team to deliver new features.
 
 
 <!--
