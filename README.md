@@ -2,7 +2,7 @@
 
 I am a junior developer, who specializes in front-end development. I have strong fundamentals in HTML, CSS, JavaScript and I have worked with JavaScript frameworks React and Vue. Addition to that I have used Figma to create design for my projects.
 
-I may specialize front-end development but this doesn't mean I am not open to different possibilites. Feel free to contact me by sending me an email.
+I may specialize in front-end development but this doesn't mean I am not open to another possibilites. I find IT as a field very intereseting. I am motivated and ready to learn more.
 
 
 <!--
