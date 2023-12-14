@@ -2,7 +2,7 @@
 
 ### 🧑 Who am I?
 
-I am a junior developer, who is his best at front-end but has some general knowledge about back-end too. I love challenging myself and I have found that my passion in programming is developing user-friendly, optimized and visually appealing websites. 
+I am a junior developer, who is his best at front-end but has some general knowledge about back-end too. I have found that my passion in programming is developing user-friendly, optimized and visually appealing websites. 
 
 ### 🖥️ Skills
 - Frontend languages
