@@ -2,7 +2,7 @@
 
 ### 🧑 Who am I?
 
-I am a junior developer, who is his best at front-end but has some general knowledge about back-end too. I have found that my passion in programming is developing user-friendly, optimized and visually appealing websites. 
+I am an IT student with three years of programming experience prior to starting my studies to become a Junior IT Specialist. I have a strong passion for technology and problem-solving, and I am eager to put my skills into practice.
 
 ### 🖥️ Skills
 - Frontend languages
@@ -30,7 +30,7 @@ I am a junior developer, who is his best at front-end but has some general knowl
 
 
 ### 🔍 What am I looking for?
-I am looking to use my gained skills to start my career in IT.
+I am looking for an internship or a job in IT field.
 
 <!--
 **ItsKris1/ItsKris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
